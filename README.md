@@ -2,14 +2,14 @@
 
 ### 01_Web-components
 8 nezávislých statických webových komponent (bez JavaScriptu):
-* 01 - vertikální akordeon FAQ 
-* 02 - carousel 
-* 03 - tabuľka
-* 04 - stránkování 
-* 05 - layout Hero sekce
-* 06 - jednoduchý app layout
-* 07 - modální okno (+ JavaScript)
-* 08 - produktová karta
+1. vertikální akordeon FAQ 
+2. carousel 
+3. tabuľka
+4. stránkování 
+5. layout Hero sekce
+6. jednoduchý app layout
+7. modální okno (+ JavaScript)
+8. produktová karta
 
 ### 02_Small-project-Design
 Landing page malého projektu Design s aplikací teoretických znalostí pravidel a zásad moderního web designu s použítím layoutů. 
