@@ -13,8 +13,8 @@ Vypracováno v rámci kurzu Udemy [HTML-CSS 2022](https://www.udemy.com/share/10
 7. modální okno (+ JavaScript)
 8. produktová karta
 
-### 02_Small-project-Design
-Landing page malého projektu Design s aplikací teoretických znalostí pravidel a zásad moderního web designu s použítím layoutů. 
+### 02_Small-project-Chair-Shop
+Landing page malého projektu Chair Shop s aplikací teoretických znalostí pravidel a zásad moderního web designu s použítím layoutů. 
 
 ### 03_Fundamentals-The-Code-Magazine
 Startovací edukativní projekt formující základní znalosti moderního HTML a CSS.
